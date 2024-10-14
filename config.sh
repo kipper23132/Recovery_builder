@@ -3,7 +3,7 @@
 # about the custom recovery
 export NAME="twrp" # supported: pbrp, shrp, twrp
 export MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git" # the link of manifest
-export BRANCH="twrp-8.1" # the branch of manifest
+export BRANCH="twrp-9.0" # the branch of manifest
 
 # about your device
 export DEVICE="m14x" # codename used in device tree
