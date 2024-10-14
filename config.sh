@@ -11,7 +11,7 @@ export DT_LINK="https://github.com/kipper23132/twrp_device_samsung_m14x" # devic
 export DT_BRANCH="android-12.1" # device tree 
 export VENDOR="samsung" # device manufacturer or vendor
 export TARGET="recoveryimage" # build method: recoveryimage, bootimage, vendorboot
-export TYPE="aosp" # recovery type: omni, twrp, something else
+export TYPE="twrp" # recovery type: omni, twrp, something else
 
 # you dont need to edit these
 export SYM="_"
